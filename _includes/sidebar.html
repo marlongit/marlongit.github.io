@@ -7,12 +7,13 @@
 
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
+        <a href="/">INÍCIO</a>
+        <a href="/">SOBRE</a>
+        <a href="/">CONTATOS</a>
       </li>
 
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        Páginas geradas dinâmicamente
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
