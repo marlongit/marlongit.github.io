@@ -1,8 +1,14 @@
 ---
 published: true
-title: Hello world
+title: Trabalhos com .Net
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/marlongit/marlongit.github.io](http://github.com/marlongit/marlongit.github.io). Be nice. Give credit. Share, don't steal :)
+Repositório de aplicações desenvolvidas em .net com o intuido de disseminar o conhecimento e agregar experiências voltadas para a tecnologia em questão
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+
+
+
+
+
+
+Criado por [Marlon Everson](http://marlongit.github.io/)
