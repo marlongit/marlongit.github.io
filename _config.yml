@@ -5,3 +5,5 @@ title: Marlon Everson
 tagline: 
 description: Desenvolvido por,  <a href="http://marlongit.github.io//&quot; target=&quot;_blank">Marlon Everson</a>
 paginate: 5
+
+theme: jekyll-theme-slate
