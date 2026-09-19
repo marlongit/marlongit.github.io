@@ -6,13 +6,18 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
+      <li class="sidebar-nav-item{% if page.title == "Inicio" %} active{% endif %}">
+        <a href="/">INÍCIO</a>        
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="/">SOBRE</a>
+      </li>
+      <li class="sidebar-nav-item">
+        <a href="_posts/contato.html">CONTATOS</a>
       </li>
 
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
+        Páginas geradas dinâmicamente
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
@@ -31,6 +36,6 @@
       <li class="sidebar-nav-item">Currently v{{ site.version }}</li-->
     </ul>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. Todos os direitos reservados.</p>
   </div>
 </div>

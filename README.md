@@ -38,3 +38,6 @@ Substituir a página atual do `marlongit.github.io` por um currículo digital mo
 
 ## Conteúdo
 O conteúdo profissional foi estruturado a partir do PDF de currículo fornecido para esta conversa. Não foram adicionadas experiências profissionais não presentes no documento.
+Brach: Tinypress
+Repositório de código aberto utilizando o Tinypress
+
